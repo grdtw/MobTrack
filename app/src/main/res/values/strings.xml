@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShowUser</string>
+    <string name="title_activity_maps">User Location</string>
+    <string name="firebase_path" translatable="false">locations</string>
+    <string name="firebase_email" translatable="false">rahul@track.com</string>
+    <string name="firebase_password" translatable="false">rahul123</string>
+</resources>
