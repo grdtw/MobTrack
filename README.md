@@ -2,7 +2,7 @@
 
 This app is to help developers to create a user tracking app. Receive lat/long of device continously from backend. 
 
-Database: Use firebase storage to manage particular user lat/long
+Database: Firebase storage to manage
 
 Important:
 
